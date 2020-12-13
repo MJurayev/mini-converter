@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mini Converter</string>
+    <string name="sign_in">Kirish</string>
+    <string name="button1">Hisobla</string>
+    <string name="text1">UZS:</string>
+    <string name="ism_kiriting">Dollar kiriting...</string>
+    <string name="toggleColor">Darkmode</string>
+</resources>
